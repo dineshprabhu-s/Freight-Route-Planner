@@ -1,1 +1,3 @@
-https://github.com/dineshprabhu-s/Freight-Route-Planner/assets/112620811/e462b50e-d3e3-4e39-95fd-8c458610de6d
+The Freight Route Planner is a Java-based project designed to optimize freight transportation logistics for a train network. This project aims to provide an efficient and cost-effective solution for planning the path of a freight train engine while taking into account the effect of loading and unloading containers.
+
+A demonstration of the project's functionality is presented [here](https://www.youtube.com/watch?v=7s2_7J0enRA)
